@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+###
+![helloggyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloggyu&show_icons=true&theme=dracula&count_private=true)
+
+###
+<div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhelloggyu&count_bg=%23F94774&title_bg=%23343333&icon=github.svg&icon_color=%23DDDDDD&title=hits&edge_flat=false"/></a>
+</div>
